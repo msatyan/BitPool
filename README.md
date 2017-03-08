@@ -1,0 +1,2 @@
+# BitPool
+Pool of bits
